@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">eZakat</string>
+    <string name="menu_name">Menu Name</string>
+    <string name="copyright">Copyright(c) 2022 eZakat</string>
+    <string name="about_text"> With eZAKAT, you can calculate your zakat anytime, anywhere, and also
+                               find your eligibility for Zakat.</string>
+    <string name="developer">eZakat Developer:</string>
+    <string name="developer1">Aimi Amisha Ahmad Sabri</string>
+    <string name="developerId1">2021149705</string>
+    <string name="developerEmail1">2021149705@student.uitm.edu.my</string>
+    <string name="developer2">Nafeis Sukaiynah Noor Azli</string>
+    <string name="developerId2">2021120785</string>
+    <string name="group">RCS2405B</string>
+    <string name="developerEmail2">2021120785@student.uitm.edu.my</string>
+    <string name="githublink">Link: github.com/CS240student/eZAKAT/</string>
+    <string name="number">Contact number: 017-5848295</string>
+    <string name="email">Email: ezakat@gmail.com</string>
+    <string name="abouttext2">Email any of your suggestions, questions or complaints to:</string>
+    <string name="abouttext1">
+        Zakat Foundation is a Perlis-based NGO providing emergency relief, post-disaster rehabilitation,
+        sustainable development, education, healthcare, orphan sponsorship, and seasonal programs such as Ramadan Iftars and Qurban.</string>
+    <string name="abouttext3">In ensuring that the goals and functions of the establishment of eZakat are on the right track, our vision and mission
+                 is used as a guide so that the administration of collection and distribution of zakat continues to grow rapidly and help asnaf in
+                 the state of Perlis to get out of poverty.</string>
+
+</resources>
